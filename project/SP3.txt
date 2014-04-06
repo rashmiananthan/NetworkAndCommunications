@@ -1,0 +1,24 @@
+Reading from file : Frame 1, To Station 1
+
+Sending 1st part of Frame 1 from SP 3 to SP 1 
+Sending 2nd part of Frame 1 from SP 3 to SP 1 
+Station 3 has successfully sent Frame 1 to Station 1 
+Reading from file : Frame 2, To Station 2
+
+Sending 1st part of Frame 2 from SP 3 to SP 2 
+Sending 2nd part of Frame 2 from SP 3 to SP 2 
+Station 3 has successfully sent Frame 2 to Station 2 
+Reading from file : Frame 3, To Station 3
+
+Skipping this frame as sending SP and receiving SP are same
+Sending 1st part of Frame 3 from SP 3 to SP 3 
+Sending 2nd part of Frame 3 from SP 3 to SP 3 
+Station 3 has successfully sent Frame 3 to Station 3 
+Reading from file : Frame 4, To Station 2
+
+Sending 1st part of Frame 4 from SP 3 to SP 2 
+Sending 2nd part of Frame 4 from SP 3 to SP 2 
+Station 3 has successfully sent Frame 4 to Station 2 
+End of file
+SP is Done processing all the inputs
+SP will shut down.

@@ -1,0 +1,235 @@
+All SP's are connected
+Sending signal to all the SP's
+Message sent to SP 0 : start 1
+
+Message sent to SP 1 : start 2
+
+
+Reading from SP's
+Received part 1 of frame 1 from Station 1 to Station 3
+Skipping information from Sender 1 to Receiver 3 as Receiver SP not present
+Sending to stations failed
+
+Reading from SP's
+Received part 2 of frame 1 from Station 1 to Station 3
+Skipping information from Sender 1 to Receiver 3 as Receiver SP not present
+Sending to stations failed
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Collision, more than one SPs are sending messages.
+Collision occured while sending part 1 of frame 2 from Station 1 to Station 2
+Sending to stations failed
+Informing SP 1 about a collision 
+Informing SP 2 about a collision 
+
+Reading from SP's
+Received part 1 of frame 2 from Station 1 to Station 2
+Storing Part 1 of frame 2 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 2 from Station 1 to Station 2
+Sending part 1 of frame 2 from station 1 to station 2
+Transferring part 1 of frame 2 from Station 1 to Station 2
+Destination Sp 2 unavailable
+Sending to stations failed
+
+Reading from SP's
+Received part 1 of frame 3 from Station 1 to Station 3
+Skipping information from Sender 1 to Receiver 3 as Receiver SP not present
+Sending to stations failed
+
+Reading from SP's
+Received part 2 of frame 3 from Station 1 to Station 3
+Skipping information from Sender 1 to Receiver 3 as Receiver SP not present
+Sending to stations failed
+
+Reading from SP's
+Received part 1 of frame 4 from Station 1 to Station 2
+Collision occured as temporary buffer is occupied when 1st part of frame 4 is to be sent from Station 1 to Station 2
+Informing SP 1 about a collision 
+
+Reading from SP's
+Received part 1 of frame 4 from Station 1 to Station 2
+Storing Part 1 of frame 4 from Station 1 to Station 2 in temporary buffer
+
+Reading from SP's
+Received part 2 of frame 4 from Station 1 to Station 2
+Sending part 1 of frame 4 from station 1 to station 2
+Transferring part 1 of frame 4 from Station 1 to Station 2
+Destination Sp 2 unavailable
+Sending to stations failed

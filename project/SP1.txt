@@ -1,0 +1,97 @@
+Reading from file : Frame 1, To Station 3
+
+Sending 1st part of Frame 1 from SP 1 to SP 3 
+Sending 2nd part of Frame 1 from SP 1 to SP 3 
+Station 1 has successfully sent Frame 1 to Station 3 
+Reading from file : Frame 2, To Station 2
+
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:1
+Random Wait time slot is 0 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:2
+Random Wait time slot is 3 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:3
+Random Wait time slot is 7 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:4
+Random Wait time slot is 21 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:5
+Random Wait time slot is 41 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:6
+Random Wait time slot is 60 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:7
+Random Wait time slot is 16 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:8
+Random Wait time slot is 203 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:9
+Random Wait time slot is 676 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:10
+Random Wait time slot is 73 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:10
+Random Wait time slot is 1030 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:10
+Random Wait time slot is 1673 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:10
+Random Wait time slot is 1583 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:10
+Random Wait time slot is 440 
+Sending 1st part of Frame 2 from SP 1 to SP 2 
+Sending 2nd part of Frame 2 from SP 1 to SP 2 
+Station 1 has successfully sent Frame 2 to Station 2 
+Reading from file : Frame 3, To Station 3
+
+Sending 1st part of Frame 3 from SP 1 to SP 3 
+Sending 2nd part of Frame 3 from SP 1 to SP 3 
+Station 1 has successfully sent Frame 3 to Station 3 
+Reading from file : Frame 4, To Station 2
+
+Sending 1st part of Frame 4 from SP 1 to SP 2 
+In coming message from CBP: collisionCollision has occured
+Collision count:1
+Random Wait time slot is 1 
+Sending 1st part of Frame 4 from SP 1 to SP 2 
+Sending 2nd part of Frame 4 from SP 1 to SP 2 
+Station 1 has successfully sent Frame 4 to Station 2 
+End of file
+SP is Done processing all the inputs
+SP will shut down.
